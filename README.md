@@ -1,35 +1,42 @@
-## Hey there! I'm [Mishal Ibrar] 👋
+Hey there! I am Mishal Ibrar 👋
 
-### 💡 What I'm all about
-I'm a react native developer with 1 year of experience, specializing in frontend technologies while also skilled in backend development. I've got a bit of an eye for design too, which helps me create stuff that's not just functional, but looks pretty cool as well!
+💡 What I'm all about
+I am a React Native developer with 1 year of hands-on experience. I make clean and user-friendly mobile applications. I have good front-end flair with strong backend logic, and an aesthetic eye as a designer comes in handy in the development of UIs that feel good as much as they look.
 
-With a growth mindset, I'm a strong advocate of self-education, always trying to learn more about the things that interest me the most.
+With a growth mindset and curiosity, I am a bit crazy about self-learning and always up to finding the next new technical frontier that will challenge and excite me.
 
-### 🌱 Currently exploring
-- The deeper realms of AI/ML
-- Working on a sass based chatbot product.
+🌱 Currently exploring
 
-### 🛠️ My toolbox
+-Mobile application development with React Native
+
+-Best practices for User Interface/ User Experience in fashion and e-commerce apps
+
+-Geo-location and filter integration in the mobile app
+
+🛠️ My toolbox
 ```javascript
 const mySkills = {
-  frontend: ['React', 'Next.js', 'HTML', 'CSS', 'SASS'],
-  backend: ['Express.js', 'Nest.js', 'SQL', 'Laravel'],
-  languages: ['JavaScript', 'TypeScript', 'PHP'],
-  tools: ['Docker', 'Git', 'CI/CD Pipelines']
+  frontend: ['React-Native'],
+  backend: ['Express.js', 'SQL', Fisebase],
+  languages: ['JavaScript', 'TypeScript'],
 };
 ```
 
-### 💼 Some cool stuff I've done
-- Extensive experience with in-demand frontend technologies like Next.js and React.js
-- Contributed to multiple successful startups, driving thousands of dollars in revenue
-- Built some nifty full-stack solutions
-- Earned a Rising Talent badge on Upwork (pretty chuffed about that!)
-- Mastered the art of working in my pajamas (aka remote work)
+💼 A few cool things I have accomplished in my life
 
+-I have built mobile applications encompassing components such as intro sliders, modals, carousels, and geolocation filters.
 
-### 🚀 What's next?
-I'm always on the lookout for exciting projects and awesome people to collaborate with. Whether you're dreaming up the next big app or need to spruce up an existing one, I'm here to help make it happen!
+-Designed prototype UI designs based on Behance and other great design platforms.
 
-### 📫 Let's chat!
+-Gatsby Store: built an app for a clothing store with reusable components and performance requirements.
+
+-I keep upgrading my skills through various hands-on projects and personal learning.
+
+With all the prowess of balancing coding with a splash of creativity. 🎨👩‍💻
+
+🚀 What next?
+Excited to take on more fun projects and learn together with anyone in the development/design arena. Need an enticing mobile UI or back office to make your app stand out? Let's just do it!
+
+ 📫 Let's chat!
 Want to talk about the latest tech trends? Or just fancy a virtual coffee? Drop me a line!
-[LinkedIn](https://linkedin.com/in/tallha-mushtaq) | [Gmail](mailto:devtallha@gmail.com)
+[LinkedIn](https://linkedin.com/in/mishalibrar) 
