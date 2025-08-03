@@ -6,11 +6,9 @@ With a growth mindset and curiosity, I am a bit crazy about self-learning and al
 
 🌱 Currently exploring 
 
-Mobile application development with React Native 
-
-Best practices for User Interface/ User Experience in fashion and e-commerce apps 
-
-Geo-location and filter integration in the mobile app 
+*Mobile application development with React Native*
+*Best practices for User Interface/ User Experience in fashion and e-commerce apps*
+*Geo-location and filter integration in the mobile app*
 
 🛠️ My toolbox 
 
