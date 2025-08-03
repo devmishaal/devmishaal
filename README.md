@@ -1,4 +1,4 @@
-## 👋 Hey there! I’m Mishal Ibrar
+### 👋 Hey there! I’m Mishal Ibrar
 
 ### 💡 What I'm all about
 
@@ -35,11 +35,8 @@ const mySkills = {
 I’m looking forward to working on exciting projects and collaborating with like-minded developers and designers.
 Need a standout mobile UI or a powerful app backend? Let’s make it happen!
 
-
 ### 📫 Let’s connect!
 
-💬 Want to chat about tech trends, apps, or just grab a virtual coffee?
+Want to chat about tech trends, apps, or just grab a virtual coffee?
 📎 [LinkedIn](https://linkedin.com/in/your-link)
 📧 [Gmail](mailto:mishalibrar12@gmail.com)
-
-
