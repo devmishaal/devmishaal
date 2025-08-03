@@ -1,38 +1,54 @@
-Hey there! I am Mishal Ibrar 👋 
+## 👋 Hey there! I’m Mishal Ibrar
 
-💡 What I'm all about I am a React Native developer with 1 year of hands-on experience. I make clean and user-friendly mobile applications. I have good front-end flair with strong backend logic, and an aesthetic eye as a designer comes in handy in the development of UIs that feel good as much as they look. 
+### 💡 What I'm all about
 
-With a growth mindset and curiosity, I am a bit crazy about self-learning and always up to finding the next new technical frontier that will challenge and excite me. 
+I’m a **React Native Developer** with **1 year of hands-on experience**, passionate about building **clean**, **user-friendly** mobile applications. I bring a strong front-end flair with solid backend logic, and my designer’s eye helps me craft UIs that look and feel great.
 
-🌱 Currently exploring 
+With a **growth mindset** and natural curiosity, I’m a big believer in **self-learning**,always eager to take on new challenges and explore new tech frontiers.
 
-*Mobile application development with React Native
-*Best practices for User Interface/ User Experience in fashion and e-commerce apps
-*Geo-location and filter integration in the mobile app
+---
 
-🛠️ My toolbox 
+### 🌱 Currently exploring
 
-const mySkills = { 
-  frontend: ['React-Native'], 
-  backend: ['Express.js', 'SQL', Fisebase], 
-  languages: ['JavaScript', 'TypeScript'], 
-}; 
-  
+* Mobile application development with **React Native**
+* Best practices for **UI/UX in fashion & e-commerce apps**
+* Integrating **geolocation** and **filters** into mobile apps
 
-💼 A few cool things I have accomplished in my life 
+---
 
-I have built mobile applications encompassing components such as intro sliders, modals, carousels, and geolocation filters. 
+### 🛠️ My Toolbox
 
-Designed prototype UI designs based on Behance and other great design platforms. 
+```javascript
+const mySkills = {
+  frontend: ['React Native'],
+  backend: ['Express.js', 'SQL', 'Firebase'],
+  languages: ['JavaScript', 'TypeScript'],
+};
+```
 
-Gatsby Store: built an app for a clothing store with reusable components and performance requirements. 
+---
 
-I keep upgrading my skills through various hands-on projects and personal learning. 
+### 💼 A few cool things I’ve accomplished
 
-With all the prowess of balancing coding with a splash of creativity. 🎨👩‍💻 
+* Built mobile apps with components like **intro sliders**, **modals**, **carousels**, and **geo-filters**
+* Designed UI prototypes inspired by **Behance** and modern design trends
+* Developed **Gatsby Store**: a clothing store app using reusable components and performance-optimized features
+* Continuously leveling up through **personal learning** and **hands-on projects**
+* Balanced the art of **clean code** with a **creative touch**
 
-🚀 What next? Excited to take on more fun projects and learn together with anyone in the development/design arena. Need an enticing mobile UI or back office to make your app stand out? Let's just do it! 
+---
 
-📫 Let's chat! Want to talk about the latest tech trends? Or just fancy a virtual coffee? Drop me a line! LinkedIn 
+### 🚀 What’s next?
 
- 
+I’m looking forward to working on exciting projects and collaborating with like-minded developers and designers.
+Need a standout mobile UI or a powerful app backend? Let’s make it happen!
+
+---
+
+### 📫 Let’s connect!
+
+💬 Want to chat about tech trends, apps, or just grab a virtual coffee?
+📎 [LinkedIn](https://linkedin.com/in/your-link)
+📧 [mishalibrar12@gmail.com](mailto:mishalibrar12@gmail.com)
+
+---
