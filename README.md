@@ -1,42 +1,40 @@
-Hey there! I am Mishal Ibrar 👋
+Hey there! I am Mishal Ibrar 👋 
 
-💡 What I'm all about
-I am a React Native developer with 1 year of hands-on experience. I make clean and user-friendly mobile applications. I have good front-end flair with strong backend logic, and an aesthetic eye as a designer comes in handy in the development of UIs that feel good as much as they look.
+💡 What I'm all about I am a React Native developer with 1 year of hands-on experience. I make clean and user-friendly mobile applications. I have good front-end flair with strong backend logic, and an aesthetic eye as a designer comes in handy in the development of UIs that feel good as much as they look. 
 
-With a growth mindset and curiosity, I am a bit crazy about self-learning and always up to finding the next new technical frontier that will challenge and excite me.
+With a growth mindset and curiosity, I am a bit crazy about self-learning and always up to finding the next new technical frontier that will challenge and excite me. 
 
-🌱 Currently exploring
+🌱 Currently exploring 
 
--Mobile application development with React Native
+Mobile application development with React Native 
 
--Best practices for User Interface/ User Experience in fashion and e-commerce apps
+Best practices for User Interface/ User Experience in fashion and e-commerce apps 
 
--Geo-location and filter integration in the mobile app
+Geo-location and filter integration in the mobile app 
 
-🛠️ My toolbox
-```javascript
-const mySkills = {
-  frontend: ['React-Native'],
-  backend: ['Express.js', 'SQL', Fisebase],
-  languages: ['JavaScript', 'TypeScript'],
-};
-```
+🛠️ My toolbox 
 
-💼 A few cool things I have accomplished in my life
+const mySkills = { 
+  frontend: ['React-Native'], 
+  backend: ['Express.js', 'SQL', Fisebase], 
+  languages: ['JavaScript', 'TypeScript'], 
+}; 
+  
 
--I have built mobile applications encompassing components such as intro sliders, modals, carousels, and geolocation filters.
+💼 A few cool things I have accomplished in my life 
 
--Designed prototype UI designs based on Behance and other great design platforms.
+I have built mobile applications encompassing components such as intro sliders, modals, carousels, and geolocation filters. 
 
--Gatsby Store: built an app for a clothing store with reusable components and performance requirements.
+Designed prototype UI designs based on Behance and other great design platforms. 
 
--I keep upgrading my skills through various hands-on projects and personal learning.
+Gatsby Store: built an app for a clothing store with reusable components and performance requirements. 
 
-With all the prowess of balancing coding with a splash of creativity. 🎨👩‍💻
+I keep upgrading my skills through various hands-on projects and personal learning. 
 
-🚀 What next?
-Excited to take on more fun projects and learn together with anyone in the development/design arena. Need an enticing mobile UI or back office to make your app stand out? Let's just do it!
+With all the prowess of balancing coding with a splash of creativity. 🎨👩‍💻 
 
- 📫 Let's chat!
-Want to talk about the latest tech trends? Or just fancy a virtual coffee? Drop me a line!
-[LinkedIn](https://linkedin.com/in/mishalibrar) 
+🚀 What next? Excited to take on more fun projects and learn together with anyone in the development/design arena. Need an enticing mobile UI or back office to make your app stand out? Let's just do it! 
+
+📫 Let's chat! Want to talk about the latest tech trends? Or just fancy a virtual coffee? Drop me a line! LinkedIn 
+
+ 
