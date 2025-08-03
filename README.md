@@ -38,5 +38,5 @@ Need a standout mobile UI or a powerful app backend? Let’s make it happen!
 ### 📫 Let’s connect!
 
 Want to chat about tech trends, apps, or just grab a virtual coffee?
-📎 [LinkedIn](https://linkedin.com/in/your-link)
+📎 [LinkedIn](https://www.linkedin.com/in/mishalibrar/)
 📧 [Gmail](mailto:mishalibrar12@gmail.com)
