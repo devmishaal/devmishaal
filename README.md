@@ -6,15 +6,11 @@ I’m a **React Native Developer** with **1 year of hands-on experience**, passi
 
 With a **growth mindset** and natural curiosity, I’m a big believer in **self-learning**,always eager to take on new challenges and explore new tech frontiers.
 
----
-
 ### 🌱 Currently exploring
 
 * Mobile application development with **React Native**
 * Best practices for **UI/UX in fashion & e-commerce apps**
 * Integrating **geolocation** and **filters** into mobile apps
-
----
 
 ### 🛠️ My Toolbox
 
@@ -26,8 +22,6 @@ const mySkills = {
 };
 ```
 
----
-
 ### 💼 A few cool things I’ve accomplished
 
 * Built mobile apps with components like **intro sliders**, **modals**, **carousels**, and **geo-filters**
@@ -36,19 +30,16 @@ const mySkills = {
 * Continuously leveling up through **personal learning** and **hands-on projects**
 * Balanced the art of **clean code** with a **creative touch**
 
----
-
 ### 🚀 What’s next?
 
 I’m looking forward to working on exciting projects and collaborating with like-minded developers and designers.
 Need a standout mobile UI or a powerful app backend? Let’s make it happen!
 
----
 
 ### 📫 Let’s connect!
 
 💬 Want to chat about tech trends, apps, or just grab a virtual coffee?
 📎 [LinkedIn](https://linkedin.com/in/your-link)
-📧 [mishalibrar12@gmail.com](mailto:mishalibrar12@gmail.com)
+📧 [Gmail](mailto:mishalibrar12@gmail.com)
 
----
+
